@@ -6,6 +6,11 @@ This is a web page created using HTML and CSS to replicate the Netflix India int
 
 The project aims to create a static web page that mimics the Netflix India homepage. It is designed using HTML for the structure and CSS for styling.
 
+## Demo
+
+
+![Netflix India Demo](https://github.com/Ammaqr1/NETFLIX.INDIA/blob/main/assets/NETFLIX%20_%20INDIA%20and%2010%20more%20pages%20-%20Personal%20-%20Microsoft_%20Edge%202024-07-10%2019-27-27.gif?raw=true)
+
 
 
 ## Installation
